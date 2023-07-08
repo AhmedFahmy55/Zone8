@@ -672,7 +672,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerInstance: {fileID: 1094740686}
   cameraEasing: 0.25
-  relativePosFar: {x: 0, y: 5, z: -3}
+  relativePosFar: {x: 0, y: 5, z: -2.22}
   xRotationFar: 60
   relativePosNear: {x: 0, y: 2.5, z: -2}
   relativePosNearLRShift: 1
